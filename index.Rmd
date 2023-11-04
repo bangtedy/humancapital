@@ -7,7 +7,7 @@ date: "(updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["xaringan-themer.css"]
+    css: ["xaringan-themer.css", "extracss.css"]
     seal: false
     nature:
       highlightStyle: github
@@ -22,7 +22,7 @@ style_mono_accent(
 ```
 
 class: title-slide, center, middle
-
+background-image: url("atol.jpg")
 ### The Impacts of Knowledge Capital and Financial Development on Economic Growth
 
 #### An Inquiry into the Foundations of Human Prosperity
